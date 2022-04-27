@@ -24,7 +24,7 @@ public class Main {
             String ssn=scan.nextLine();
 
             Customer newCustomer= new Customer(lastName,firstName,address, ssn);
-
+            System.out.println("Customer");
         }
 
 
