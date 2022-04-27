@@ -25,6 +25,7 @@ public class Main {
 
             Customer newCustomer= new Customer(lastName,firstName,address, ssn);
             System.out.println("Customer");
+
         }
 
 
